@@ -2618,6 +2618,11 @@ input, select, textarea {
 			top: 0.75rem;
 		}
 
+        .me {
+            Height=80;
+            Width=80;
+        }
+
 		.image.fit {
 			display: block;
 			margin: 2.5rem 0;
